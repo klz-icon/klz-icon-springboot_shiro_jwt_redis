@@ -1,0 +1,8 @@
+2021-10-04 18:31:17 [main] INFO  com.klz.iblog.IblogApplication 55 - Starting IblogApplication using Java 1.8.0_251 on LAPTOP-OB0TL075 with PID 16360 (D:\work\java\构建项目\iblog\target\classes started by 18225 in D:\work\java\构建项目\iblog)
+2021-10-04 18:31:17 [main] INFO  com.klz.iblog.IblogApplication 663 - The following profiles are active: dev
+2021-10-04 18:31:17 [main] INFO  org.apache.coyote.http11.Http11NioProtocol 173 - Initializing ProtocolHandler ["http-nio-8088"]
+2021-10-04 18:31:17 [main] INFO  org.apache.catalina.core.StandardService 173 - Starting service [Tomcat]
+2021-10-04 18:31:17 [main] INFO  org.apache.catalina.core.StandardEngine 173 - Starting Servlet engine: [Apache Tomcat/9.0.53]
+2021-10-04 18:31:18 [main] INFO  org.apache.catalina.core.ContainerBase.[Tomcat].[localhost].[/] 173 - Initializing Spring embedded WebApplicationContext
+2021-10-04 18:31:18 [main] INFO  org.apache.coyote.http11.Http11NioProtocol 173 - Starting ProtocolHandler ["http-nio-8088"]
+2021-10-04 18:31:18 [main] INFO  com.klz.iblog.IblogApplication 61 - Started IblogApplication in 1.251 seconds (JVM running for 2.34)
